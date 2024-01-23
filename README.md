@@ -3,8 +3,6 @@
 <h3 align="center">Hiện tại đang là sinh viên Đại học Nha Trang</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tienvannnn&label=Profile%20views&color=0e75b6&style=flat" alt="tienvannnn" /> </p>
-
 - 📫 How to reach me **tienlevan78py@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
